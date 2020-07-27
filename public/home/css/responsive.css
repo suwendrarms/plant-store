@@ -1,0 +1,179 @@
+@media screen and (min-width: 0px) and (max-width: 991px) {
+    .left-sec {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .landing-banner-area {
+        padding: 50px 0;
+    }
+    .landing-banner-area .logo img {
+        max-width: 220px;
+    }
+    .landing-banner-area .title {
+        font-size: 30px;
+    }
+    .landing-banner-area .download-app {
+        width: 50%;
+        text-align: center;
+        max-width: 50%;
+        margin-right: 0px;
+        padding: 0 10px;
+    }
+    .center-sec {
+        display: none;
+    }
+    .main-banner-part .title {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+    .main-banner-part {
+        height: 340px;
+    }
+    .logo-mobile-hide {
+        display: none;
+    }
+    .logo-home .logo-mobile {
+        display: block;
+    }
+    .logo-home {
+        position: relative;
+        margin-top: 10px;
+        top: 0;
+        text-align: center;
+    }
+    .top-bar .left-text {
+        font-size: 14px;
+    }
+    .top-bar .top-left {
+        text-align: center;
+    }
+    .top-bar .top-right {
+        text-align: center;
+    }
+    .top-bar .left-text {
+        float: none;
+        display: inline-block;
+    }
+    .top-bar .user-link {
+        display: inline-block;
+    }
+    .top-bar .social {
+        display: inline-block;
+        padding-left: 0;
+    }
+    .navbar-nav .nav-item:first-child .nav-link {
+        padding-left: 1.5rem !important;
+    }
+    .navbar-nav .nav-item:last-child .nav-link {
+        padding-right: 1.5rem !important;
+    }
+    .about-title {
+        font-size: 36px;
+    }
+    .about-sec {
+        padding: 30px 0;
+    }
+    .download-app-home {
+        margin-top: 0px;
+    }
+    .download-app-home .download-app-btn {
+        max-width: 130px;
+    }
+    .app-img {
+        display: none;
+    }
+    .video-sec {
+        padding: 40px 0;
+    }
+    .service-sec {
+        padding: 40px 0;
+    }
+    .service-sec .title {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .service-line {
+        font-size: 15px;
+        padding: 15px 0;
+        margin-bottom: 0px;
+    }
+    .service-line .icon {
+        width: 24px;
+        height: 24px;
+    }
+    .service-line .icon i {
+        line-height: 24px;
+        font-size: 14px;
+    }
+    .footer-logo {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .footer-logo img {
+        max-width: 200px;
+    }
+    .footer .footer-link li a {
+        padding: 0 5px;
+        font-size: 12px;
+    }
+    .footer-social {
+        text-align: center;
+    }
+    .footer-bottom p {
+        font-size: 13px;
+    }
+    .inner-page-sec {
+        padding: 20px 0;
+    }
+    .start-title {
+        font-size: 18px;
+    }
+    .timeline {
+        padding: 0px;
+    }
+    .timeline-image span {
+        font-size: 16px;
+    }
+    .timeline-nodes {
+        padding-bottom: 10px;
+    }
+    .bottom-btn .btn {
+        font-size: 18px;
+    }
+    .top-sec {
+        padding-bottom: 10px;
+    }
+    .top-sec h2 {
+        font-size: 20px;
+    }
+    .gsa-title {
+        font-size: 25px;
+    }
+    .gsa-list li {
+        padding: 5px 0;
+        font-size: 15px;
+    }
+    .form-sec .title {
+        font-size: 20px;
+    }
+    .form-sec .apply-form {
+        margin-top: 10px;
+    }
+    .form-sec .apply-form label {
+        font-size: 14px;
+    }
+    .form-control-lg {
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+    .banner-content-part .btn {
+        padding-top: .5rem;
+        padding-bottom: .5rem;
+        font-size: 22px;
+        margin-bottom: 10px;
+        border: solid 2px #fff;
+    }
+}
