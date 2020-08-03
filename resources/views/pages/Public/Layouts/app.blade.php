@@ -2,7 +2,7 @@
 
 <head>
     <!-- Site Title-->
-    <title>Care Free Now</title>
+    <title>Ayurvedic Medicinal Plants</title>
     <meta charset="utf-8">
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport"
