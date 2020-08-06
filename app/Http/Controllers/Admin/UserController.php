@@ -17,7 +17,7 @@ class UserController extends ParentController
     {
 
 
-        return view('pages.Admin.index');
+        return view('Admin.pages.dashboard.dashboard');
     }
 
 

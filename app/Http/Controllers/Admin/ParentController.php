@@ -8,7 +8,8 @@ class ParentController extends Controller
 {
     public function __construct()
     {
-        //$this->middleware('auth');
-        $this->middleware('AdminValidate');
+        //$this->middleware('AdminValidate');
+        $this->middleware('auth');
+        ///$this->middleware('AuthCheck');
     }
 }

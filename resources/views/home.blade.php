@@ -1,4 +1,4 @@
-@extends('pages.Public.Layouts.app')
+@extends('Public.Layouts.app')
 @section('content')
 <div class="page text-center">
     <!-- Page Head-->

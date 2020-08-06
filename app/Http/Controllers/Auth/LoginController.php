@@ -51,7 +51,7 @@ class LoginController extends Controller
                 return '/admin/dashboard';
                 break;
             case User::TYPES['USER']:
-                return '/';
+                return '/member-home';
                 break;
             default:
                 return '/login';

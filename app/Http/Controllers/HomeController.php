@@ -23,6 +23,6 @@ class HomeController extends ParentController
      */
     public function index()
     {
-        return view('pages.member.index');
+        return view('Member.dashboard');
     }
 }
